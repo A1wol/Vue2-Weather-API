@@ -1,5 +1,10 @@
 # weatherapp
 
+Sample login data:
+
+login: "jank12",
+password: "jankpass1",
+
 ## Project setup
 ```
 npm install
